@@ -3,6 +3,7 @@
 ## 🔍 Project Overview
 This project demonstrates how the performance of a Decision Tree Classifier varies with tree depth and how GridSearchCV helps in selecting optimal hyperparameters. It clearly explains underfitting, overfitting, and generalization using accuracy curves.
 
+
 ---
 
 ## 🧠 Key Concepts
